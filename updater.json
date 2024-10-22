@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.2",
-  "notes": "Alpha release numba2",
+  "version": "v0.0.3",
+  "notes": "Alpha release numba 03",
   "pub_date": "",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWW00NVpUY1A1djJjUVRSeU5zZ0VUdjhhQ2lFSnBoYkRyd2VxTkdNazMvZ3dDVGh3ajRvcXRTZGRRQWczSUpLWWp1VFN3ejBQOWd5TWpmamtEczJsV0NMWFRnVm5BRnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NjMyNDg1CWZpbGU6TWlyYWkgVG9vbHMuYXBwLnRhci5negpCa3FVTlVwZjZSTHhueUdsZWJuUmN6WGNLYlN4cVVyUk1pQnZIZUI4RE05ODJTaEZ6MFRTUFZTQlp2T2wzS0xWNVVmRFJrOUxmTjVVMG0yZVZCZXVBUT09Cg==",
-      "url": "https://f004.backblazeb2.com/file/miraib/alpha-release/Mirai+Tools.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWW00NVpUY1A1dndjbjMrVjBJc0l5eHB6OU0xZVBOUVgwRVREYnM1TzZrbXJzY1NQcnR1OFlMTVE4TXpmRXhzOW12YXRaSHBLa3FkR1B3eWd3V3VWTlB3SGRBMnJIT3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NjMzOTk4CWZpbGU6TWlyYWkgVG9vbHMuYXBwLnRhci5negpycjZEWDNXclpZclVGSkFaYk5tYjAwY3lTYVFKczdCQUQ0YVAvbnVDSTRLOGxUdTBPL3ZpQ3dpYkt5OUc2eUdHQllhNFE5RGtqSldGZUM4M2MvTU5DUT09Cg==",
+      "url": "https://f004.backblazeb2.com/file/miraib/alpha-release/MiraiTools_0.0.3.app.tar.gz"
     }
   }
 }
